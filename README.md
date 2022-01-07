@@ -1,2 +1,2 @@
-# Machine-Learning
-Implementation of various ML algorithms
+# ML-DL
+Implementation of various Machine Learning and Deep Learning Algorithms
